@@ -1,0 +1,15 @@
+D:\JULIO\PROGRAMAÇÃO\CURSOS\FULLSTACK SENAI\Codificação Back-End\Atividade1-sistema-de-controle-de-clientes\bin\Debug\net6.0\Atividade1-sistema-de-controle-de-clientes.exe
+D:\JULIO\PROGRAMAÇÃO\CURSOS\FULLSTACK SENAI\Codificação Back-End\Atividade1-sistema-de-controle-de-clientes\bin\Debug\net6.0\Atividade1-sistema-de-controle-de-clientes.deps.json
+D:\JULIO\PROGRAMAÇÃO\CURSOS\FULLSTACK SENAI\Codificação Back-End\Atividade1-sistema-de-controle-de-clientes\bin\Debug\net6.0\Atividade1-sistema-de-controle-de-clientes.runtimeconfig.json
+D:\JULIO\PROGRAMAÇÃO\CURSOS\FULLSTACK SENAI\Codificação Back-End\Atividade1-sistema-de-controle-de-clientes\bin\Debug\net6.0\Atividade1-sistema-de-controle-de-clientes.dll
+D:\JULIO\PROGRAMAÇÃO\CURSOS\FULLSTACK SENAI\Codificação Back-End\Atividade1-sistema-de-controle-de-clientes\bin\Debug\net6.0\Atividade1-sistema-de-controle-de-clientes.pdb
+D:\JULIO\PROGRAMAÇÃO\CURSOS\FULLSTACK SENAI\Codificação Back-End\Atividade1-sistema-de-controle-de-clientes\obj\Debug\net6.0\Atividade1-sistema-de-controle-de-clientes.csproj.AssemblyReference.cache
+D:\JULIO\PROGRAMAÇÃO\CURSOS\FULLSTACK SENAI\Codificação Back-End\Atividade1-sistema-de-controle-de-clientes\obj\Debug\net6.0\Atividade1-sistema-de-controle-de-clientes.GeneratedMSBuildEditorConfig.editorconfig
+D:\JULIO\PROGRAMAÇÃO\CURSOS\FULLSTACK SENAI\Codificação Back-End\Atividade1-sistema-de-controle-de-clientes\obj\Debug\net6.0\Atividade1-sistema-de-controle-de-clientes.AssemblyInfoInputs.cache
+D:\JULIO\PROGRAMAÇÃO\CURSOS\FULLSTACK SENAI\Codificação Back-End\Atividade1-sistema-de-controle-de-clientes\obj\Debug\net6.0\Atividade1-sistema-de-controle-de-clientes.AssemblyInfo.cs
+D:\JULIO\PROGRAMAÇÃO\CURSOS\FULLSTACK SENAI\Codificação Back-End\Atividade1-sistema-de-controle-de-clientes\obj\Debug\net6.0\Atividade1-sistema-de-controle-de-clientes.csproj.CoreCompileInputs.cache
+D:\JULIO\PROGRAMAÇÃO\CURSOS\FULLSTACK SENAI\Codificação Back-End\Atividade1-sistema-de-controle-de-clientes\obj\Debug\net6.0\Atividade1-sistema-de-controle-de-clientes.dll
+D:\JULIO\PROGRAMAÇÃO\CURSOS\FULLSTACK SENAI\Codificação Back-End\Atividade1-sistema-de-controle-de-clientes\obj\Debug\net6.0\refint\Atividade1-sistema-de-controle-de-clientes.dll
+D:\JULIO\PROGRAMAÇÃO\CURSOS\FULLSTACK SENAI\Codificação Back-End\Atividade1-sistema-de-controle-de-clientes\obj\Debug\net6.0\Atividade1-sistema-de-controle-de-clientes.pdb
+D:\JULIO\PROGRAMAÇÃO\CURSOS\FULLSTACK SENAI\Codificação Back-End\Atividade1-sistema-de-controle-de-clientes\obj\Debug\net6.0\Atividade1-sistema-de-controle-de-clientes.genruntimeconfig.cache
+D:\JULIO\PROGRAMAÇÃO\CURSOS\FULLSTACK SENAI\Codificação Back-End\Atividade1-sistema-de-controle-de-clientes\obj\Debug\net6.0\ref\Atividade1-sistema-de-controle-de-clientes.dll

@@ -1,0 +1,15 @@
+D:\JULIO\PROGRAMAÇÃO\CURSOS\FULLSTACK SENAI\Codificação Back-End\SA2_ativSistControleClientes\bin\Debug\net6.0\SA2_ativSistControleClientes.exe
+D:\JULIO\PROGRAMAÇÃO\CURSOS\FULLSTACK SENAI\Codificação Back-End\SA2_ativSistControleClientes\bin\Debug\net6.0\SA2_ativSistControleClientes.deps.json
+D:\JULIO\PROGRAMAÇÃO\CURSOS\FULLSTACK SENAI\Codificação Back-End\SA2_ativSistControleClientes\bin\Debug\net6.0\SA2_ativSistControleClientes.runtimeconfig.json
+D:\JULIO\PROGRAMAÇÃO\CURSOS\FULLSTACK SENAI\Codificação Back-End\SA2_ativSistControleClientes\bin\Debug\net6.0\SA2_ativSistControleClientes.dll
+D:\JULIO\PROGRAMAÇÃO\CURSOS\FULLSTACK SENAI\Codificação Back-End\SA2_ativSistControleClientes\bin\Debug\net6.0\SA2_ativSistControleClientes.pdb
+D:\JULIO\PROGRAMAÇÃO\CURSOS\FULLSTACK SENAI\Codificação Back-End\SA2_ativSistControleClientes\obj\Debug\net6.0\SA2_ativSistControleClientes.csproj.AssemblyReference.cache
+D:\JULIO\PROGRAMAÇÃO\CURSOS\FULLSTACK SENAI\Codificação Back-End\SA2_ativSistControleClientes\obj\Debug\net6.0\SA2_ativSistControleClientes.GeneratedMSBuildEditorConfig.editorconfig
+D:\JULIO\PROGRAMAÇÃO\CURSOS\FULLSTACK SENAI\Codificação Back-End\SA2_ativSistControleClientes\obj\Debug\net6.0\SA2_ativSistControleClientes.AssemblyInfoInputs.cache
+D:\JULIO\PROGRAMAÇÃO\CURSOS\FULLSTACK SENAI\Codificação Back-End\SA2_ativSistControleClientes\obj\Debug\net6.0\SA2_ativSistControleClientes.AssemblyInfo.cs
+D:\JULIO\PROGRAMAÇÃO\CURSOS\FULLSTACK SENAI\Codificação Back-End\SA2_ativSistControleClientes\obj\Debug\net6.0\SA2_ativSistControleClientes.csproj.CoreCompileInputs.cache
+D:\JULIO\PROGRAMAÇÃO\CURSOS\FULLSTACK SENAI\Codificação Back-End\SA2_ativSistControleClientes\obj\Debug\net6.0\SA2_ativSistControleClientes.dll
+D:\JULIO\PROGRAMAÇÃO\CURSOS\FULLSTACK SENAI\Codificação Back-End\SA2_ativSistControleClientes\obj\Debug\net6.0\refint\SA2_ativSistControleClientes.dll
+D:\JULIO\PROGRAMAÇÃO\CURSOS\FULLSTACK SENAI\Codificação Back-End\SA2_ativSistControleClientes\obj\Debug\net6.0\SA2_ativSistControleClientes.pdb
+D:\JULIO\PROGRAMAÇÃO\CURSOS\FULLSTACK SENAI\Codificação Back-End\SA2_ativSistControleClientes\obj\Debug\net6.0\SA2_ativSistControleClientes.genruntimeconfig.cache
+D:\JULIO\PROGRAMAÇÃO\CURSOS\FULLSTACK SENAI\Codificação Back-End\SA2_ativSistControleClientes\obj\Debug\net6.0\ref\SA2_ativSistControleClientes.dll
